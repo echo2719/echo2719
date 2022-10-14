@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=echo2719&desc=Dongyang%20Mirae%20University&fontSize=90&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=200&section=header&text=echo2719&desc=Dongyang%20Mirae%20University&fontSize=90&descAlignY=70&animation=fadeIn)
 
 <div align="center">
 
