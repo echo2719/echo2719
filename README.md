@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
-  [![](https://img.shields.io/badge/QB%20team%20OSS-e2ebf0?style=for-the-badge&logo=Apostrophe&logoColor=white)](https://github.com/QBteamOSS)
+  [![](https://img.shields.io/badge/QB%20team%20OSS-e9defa?style=for-the-badge&logo=Apostrophe&logoColor=fbfcdb)](https://github.com/QBteamOSS)
 <br>
   
 ### 🛠 I learned 🛠
