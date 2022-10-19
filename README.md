@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)&nbsp;&nbsp;[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 &nbsp;[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!--
-[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
 
 <br><br>
   [![](https://img.shields.io/badge/QB%20team%20OSS-fbfcdb?style=for-the-badge&logo=Apostrophe&logoColor=white)](https://github.com/QBteamOSS)
