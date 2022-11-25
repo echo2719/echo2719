@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=echo2719&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=echo2719&theme=default&hide_border=true&include_all_commits=false&count_private=true)
 
 [![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)&nbsp;&nbsp;[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 &nbsp;[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
